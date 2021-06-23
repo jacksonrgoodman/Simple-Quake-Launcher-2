@@ -512,7 +512,7 @@ namespace mxd.SQL2
 
 #if DEBUG
 			string result = engine.FileName + " " + argsstr;
-			if(MessageBox.Show(this, "Launch parameters:\n" + result + "\n\nProceed?", "Launch Preview", MessageBoxButton.YesNo) == MessageBoxResult.No) return;
+			//if(MessageBox.Show(this, "Launch parameters:\n" + result + "\n\nProceed?", "Launch Preview", MessageBoxButton.YesNo) == MessageBoxResult.No) return;
 #endif
 
 			// Setup process info
