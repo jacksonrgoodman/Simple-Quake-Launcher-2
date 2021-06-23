@@ -1,3 +1,4 @@
+slightly modified
 # Simple Quake Launcher 2
 A simple [ZDL](http://zdoom.org/wiki/ZDL)-inspired map/mod/demo launcher for Quake, Quake 2, Hexen 2 and Half-Life.
 
